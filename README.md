@@ -11,7 +11,6 @@
 
 **Data files used:**
 1. owid-covid-data.csv (*from Our World in Data*, https://ourworldindata.org/coronavirus-source-data) - Dataset maintained by *Our World in Data* that contains total confirmed cases, deaths, and other COVID-19 related data from 100s of countries worldwide and is updated daily. 
-2. us_confirmed_csv (*from Data Hub*, https://datahub.io/core/covid-19) - Dataset with total confirmed cases and deaths in the US based on state/provience. 
 
 **Files in this project:**
 1. top_contries_covid.R - Code
